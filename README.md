@@ -1,6 +1,6 @@
 # CompuBlanda
 Repositorio de la asignatura Computación Blanda 2021-2
-Grupo de trabajo: 
+<b>Grupo de trabajo: </b>
 * Victor Hugo Betanocourth
 * Nicolas Amaya Rico
 * Cristian Rodriguez
@@ -9,12 +9,12 @@ Grupo de trabajo:
 
 LA PREVIA 1 ESTA EN DESARROLLO
 
-Contenido Actual:
+<b>Contenido Actual:</b>
 
 -Paper
 -Codificación de red neuronal
 
-Soon:
+<b>Soon:</b>
 - Presentación de powerpoint explicando previa
 - Codificación de lógica difusa
 muchas gracias!!!
