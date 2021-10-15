@@ -8,7 +8,9 @@ Grupo de trabajo:
 2021-2
 
 LA PREVIA 1 ESTA EN DESARROLLO
+
 Contenido Actual:
+
 -Paper
 -Codificación de red neuronal
 
