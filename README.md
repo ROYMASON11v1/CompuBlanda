@@ -11,8 +11,8 @@ Repositorio de la asignatura Computación Blanda 2021-2
 
 <b>Contenido Actual:</b>
 
--Paper
--Codificación de red neuronal
+- Paper
+- Codificación de red neuronal
 
 <b>Soon:</b>
 - Presentación de powerpoint explicando previa
