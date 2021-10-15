@@ -7,7 +7,7 @@ Repositorio de la asignatura Computación Blanda 2021-2
 
 2021-2
 
-##LA PREVIA 1 ESTA EN DESARROLLO
+<h2>LA PREVIA 1 ESTA EN DESARROLLO</h2>
 
 <b>Contenido Actual:</b>
 
