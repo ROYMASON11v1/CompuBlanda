@@ -13,7 +13,8 @@ Repositorio de la asignatura Computación Blanda 2021-2
 
 - Paper
 - Codificación de red neuronal
-- Presentación de powerpoint explicando previa: <a href="https://www.canva.com/design/DAEs2vQ3VOM/rnvIUMdEHzrQpRWoZaL4uw/view?utm_content=DAEs2vQ3VOM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"> Presentación </a>
+- Presentación de powerpoint explicando previa: <a href="https://www.canva.com/design/DAEs2vQ3VOM/rnvIUMdEHzrQpRWoZaL4uw/view?utm_content=DAEs2vQ3VOM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
+title="Presentación interactiva"> Presentación </a>
 - Codificación de lógica difusa
 
 muchas gracias!!!
