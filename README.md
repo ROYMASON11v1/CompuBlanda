@@ -7,7 +7,7 @@ Repositorio de la asignatura Computación Blanda 2021-2
 
 2021-2
 
-<h2>PRoyecto Final DISPONIBLE</h2>
+<h2>Proyecto Final DISPONIBLE</h2>
 
 <b>Contenido Actual:</b>
 
